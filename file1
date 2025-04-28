@@ -1,2 +1,7 @@
-hello 
-this is file1
+<<<<<<< HEAD
+Changes from main
+=======
+Changes from branch2
+>>>>>>> branch2
+
+
